@@ -8,7 +8,7 @@ public class SumSimple_002 {
     110*/
 
     public static void main(String[] args) {
-        System.out.println(74 + 36);
+        System.out.println("Result for 74 + 36 statement is " + (74 + 36));
     }
 }
 
